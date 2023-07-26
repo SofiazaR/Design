@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "113c09a09cbd3dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Поиск работы/Сайты различных компаний.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX/Эвристики Нильсена.md",
+                "file": "Поиск работы/Сайты различных компаний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX/Эвристики Нильсена.md",
+                "file": "Поиск работы/Сайты различных компаний.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX/Эвристики Нильсена.md"
+                "file": "Поиск работы/Сайты различных компаний.md"
               }
             }
           }
@@ -172,10 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "090713425bfe902d",
+  "active": "113c09a09cbd3dd5",
   "lastOpenFiles": [
-    "README.md",
     "UX/Эвристики Нильсена.md",
+    "Поиск работы/Сайты различных компаний.md",
+    "Поиск работы",
+    "README.md",
     "Untitled 1",
     "Школа мобильного дизайна/Идея, исследование, концепт (Часть 1)..md",
     "Школа мобильного дизайна",
