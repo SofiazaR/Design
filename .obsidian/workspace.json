@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поиск работы/Сайты различных компаний.md",
+                "file": "UX/Эвристики Нильсена.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Поиск работы/Сайты различных компаний.md",
+                "file": "UX/Эвристики Нильсена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Поиск работы/Сайты различных компаний.md",
+                "file": "UX/Эвристики Нильсена.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Поиск работы/Сайты различных компаний.md"
+                "file": "UX/Эвристики Нильсена.md"
               }
             }
           }
@@ -184,18 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "113c09a09cbd3dd5",
+  "active": "c39a02fddeeea3df",
   "lastOpenFiles": [
+    "№1/Untitled.md",
     "UX/Эвристики Нильсена.md",
-    "Поиск работы/Сайты различных компаний.md",
-    "Поиск работы",
-    "README.md",
-    "Untitled 1",
     "Школа мобильного дизайна/Идея, исследование, концепт (Часть 1)..md",
+    "README.md",
+    "Поиск работы/Сайты различных компаний.md",
+    "История дизайна/100 лет дизайна/Photo/Pasted image 20230620101726.png",
+    "История дизайна/100 лет дизайна/Photo/Pasted image 20230705145643.png",
+    "История дизайна/100 лет дизайна/Photo",
+    "№1",
+    "Поиск работы",
+    "Untitled 1",
     "Школа мобильного дизайна",
     "UX",
-    "История дизайна/100 лет дизайна/Pasted image 20230620101726.png",
-    "История дизайна/100 лет дизайна/Pasted image 20230705145643.png",
     "История дизайна/100 лет дизайна/100 лет дизайна.md"
   ]
 }
