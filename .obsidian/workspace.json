@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1edb8ade019b98d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Поиск работы/Сайты различных компаний.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "113c09a09cbd3dd5",
+  "active": "1edb8ade019b98d6",
   "lastOpenFiles": [
     "README.md",
     "№1/Untitled.md",
